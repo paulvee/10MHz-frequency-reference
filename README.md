@@ -1,8 +1,7 @@
 # 10MHz-frequency-reference
 This project details a 10MHz frequency reference or a master clock
-
-ibom is an interactive html BOM interface to the KiCad files.
-The KiCad project is named Frequency Reference.kicad_pro and contains the main board and the front panel.
+I updated a few footprints with better dimensions and added more partnumbers.
+The current version is now V1.1b
 
 More information can be found on my Blog here:
 https://www.paulvdiyblogs.net/2023/07/building-10mhz-master-clock.html
